@@ -1,5 +1,5 @@
-name 'puppet-pagerduty'
+name 'puppet-zendesk'
 version '0.0.1'
 license 'Apache 2.0'
-summary 'Report processor that notifies PagerDuty about failed Puppet runs'
-project_page 'https://github.com/jamtur01/puppet-pagerduty'
+summary 'Report processor that creates Zendesk tickets for failed Puppet runs'
+project_page 'https://github.com/jamtur01/puppet-zendesk'
